@@ -82,7 +82,7 @@ if uploaded_file is not None:
         st.pyplot(plt)
 
 
-# In[ ]:
+# In[ ]:streamlit run app.py
 
 
 
